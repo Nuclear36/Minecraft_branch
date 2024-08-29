@@ -1,0 +1,14 @@
+P_SkyCastle,9283,9324,9480,9521
+StoneIceBoulder,9354,9364,9474,9483
+RLCraft_DecentSkeleton,9323,9323,9434,9434
+RLCraft_UndergroundRuin2,9318,9328,9432,9439
+MonolythHoly,9401,9415,9543,9557
+RLCraft_BasicCaveSpider,9319,9319,9405,9405
+RLCraft_UndergroundRuin1,9313,9322,9399,9408
+RLCraft_BasicCaveSpider,9361,9361,9415,9415
+RLCraft_UndergroundRuin1,9358,9367,9409,9418
+SmallOutpost,9427,9457,9662,9684
+RLCraft_DecentCaveSpider,9464,9464,9612,9612
+RLCraft_UndergroundRuin2,9462,9469,9607,9617
+RLCraft_BasicSkeleton,9539,9539,9529,9529
+RLCraft_UndergroundRuin1,9533,9542,9526,9535

@@ -1,0 +1,8 @@
+IceThorn2,-5407,-5397,6438,6450
+DinosaurSkull,-5513,-5494,6256,6267
+DinosaurSkeleton,-5512,-5503,6453,6499
+RLCraft_DecentWitch,-5297,-5297,6403,6403
+RLCraft_UndergroundRuin2,-5299,-5292,6398,6408
+DinosaurSkull,-5459,-5448,6495,6514
+StoneIceBoulder2,-5583,-5574,6417,6426
+StoneIceBoulder1,-5590,-5580,6180,6190

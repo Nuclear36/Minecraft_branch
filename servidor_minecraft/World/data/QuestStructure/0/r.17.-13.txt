@@ -1,0 +1,2 @@
+StonePlantBoulder,8719,8729,-7090,-7080
+AbandonedWoodTower,8720,8756,-7164,-7134

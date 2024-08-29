@@ -1,0 +1,4 @@
+StoneBoulder,-7362,-7353,-5205,-5196
+StoneBoulder,-7308,-7299,-5210,-5201
+StonePlantMound2,-7458,-7445,-5134,-5122
+Tree_Oak_TheMushroomOak_v3,-7337,-7287,-5320,-5261

@@ -1,0 +1,3 @@
+P_Lighthouse,-9495,-9455,7200,7237
+RLCraft_DecentSpider,-9324,-9324,7365,7365
+RLCraft_UndergroundRuin3,-9329,-9321,7363,7371

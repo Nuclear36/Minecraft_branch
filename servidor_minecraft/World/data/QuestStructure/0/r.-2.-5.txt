@@ -1,0 +1,2 @@
+DesertBeacon,-1227,-1221,-3037,-3031
+RLCraft_KillerRabbit,-1177,-1103,-3072,-2997

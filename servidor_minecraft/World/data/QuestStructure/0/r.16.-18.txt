@@ -1,0 +1,5 @@
+ShrineSmallEarth,8622,8634,-9256,-9244
+SmallFortRuinsJapanese,8620,8666,-9496,-9450
+RLCraft_DecentZombie,8537,8537,-9237,-9237
+RLCraft_UndergroundRuin3,8532,8540,-9243,-9235
+SmallAbandonedMine,8449,8464,-9355,-9330

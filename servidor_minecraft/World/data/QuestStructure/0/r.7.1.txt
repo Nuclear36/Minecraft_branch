@@ -1,0 +1,8 @@
+StoneIceBoulder2,3984,3993,825,834
+StonePlantBoulder,3947,3957,661,671
+RLCraft_SmallUndergroundSkeleton,3974,3982,647,655
+StoneBoulder,3970,3979,654,663
+ClayWaterMound1,3991,4002,586,596
+StonePlantMound1,4047,4053,609,615
+P_CathedralOfMadness,3966,4054,578,734
+StoneIceBoulder1,4037,4047,815,825

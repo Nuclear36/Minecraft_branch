@@ -1,0 +1,10 @@
+RLCraft_DecentSkeleton,6585,6585,-7013,-7013
+RLCraft_UndergroundRuin2,6580,6590,-7015,-7008
+StonePlantMound2,6565,6578,-7102,-7090
+StoneBoulder,6577,6586,-7130,-7121
+StonePlantMound1,6570,6576,-6951,-6945
+StoneBoulder,6537,6546,-6915,-6906
+StoneLeafMound,6492,6499,-6973,-6964
+RLCraft_SmallUndergroundSkeleton,6457,6465,-7113,-7105
+RLCraft_BasicSkeleton,6429,6429,-7003,-7003
+RLCraft_UndergroundRuin1,6423,6432,-7009,-7000

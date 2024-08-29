@@ -1,0 +1,4 @@
+P_LargeShip,-9375,-9315,7117,7135
+RLCraft_DecentSkeleton,-9356,-9356,7079,7079
+RLCraft_UndergroundRuin2,-9361,-9354,7074,7084
+ShrineSmallAir,-9336,-9328,7072,7080

@@ -1,0 +1,2 @@
+WoodWallRemains,-1129,-1121,-3658,-3630
+DinosaurSkull,-1067,-1048,-3791,-3780

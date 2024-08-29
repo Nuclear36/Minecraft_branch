@@ -1,0 +1,17 @@
+NetherThorn2,501,513,-1101,-1088
+NetherThorn4,463,483,-1119,-1097
+NetherThorn,449,475,-1035,-1017
+NetherThorn,381,407,-1130,-1112
+NetherThorn,340,366,-1242,-1224
+NetherThorn3,325,343,-1055,-1029
+NetherThorn2,227,239,-1247,-1234
+NetherThorn1,197,213,-1347,-1328
+NetherThorn5,284,295,-1464,-1439
+NetherThorn2,147,159,-1450,-1437
+NetherThorn5,133,144,-1119,-1094
+NetherThorn5,84,95,-1387,-1362
+NetherThorn,23,49,-1182,-1164
+NetherThorn,21,39,-1097,-1071
+NetherThorn4,-135,-115,-1259,-1237
+NetherThorn2,-134,-121,-1068,-1056
+NetherThorn1,-150,-131,-1032,-1016

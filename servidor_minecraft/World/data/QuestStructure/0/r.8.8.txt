@@ -1,0 +1,5 @@
+RLCraft_SmallUndergroundSkeleton,4247,4255,4391,4399
+MeteorSite,4121,4151,4242,4257
+P_MayanTemple1,4323,4369,4226,4256
+RLCraft_DecentZombie,4325,4325,4163,4163
+RLCraft_UndergroundRuin2,4320,4327,4158,4168

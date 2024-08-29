@@ -1,0 +1,4 @@
+RLCraft_SmallUndergroundSkeleton,9349,9357,9737,9745
+ShrineSmallFire,9326,9336,9757,9767
+RLCraft_DecentSpider,9527,9527,9753,9753
+RLCraft_UndergroundRuin3,9525,9533,9750,9758

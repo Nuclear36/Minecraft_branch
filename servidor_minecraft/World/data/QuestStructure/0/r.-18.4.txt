@@ -1,0 +1,5 @@
+StonePlantMound4,-9262,-9255,2360,2367
+StonePlantMound3,-9320,-9311,2323,2334
+SmallWoodenCottage,-9356,-9345,2348,2356
+StoneBoulder,-9364,-9355,2359,2368
+RLCraft_SwampHut,-9232,-9200,2455,2495

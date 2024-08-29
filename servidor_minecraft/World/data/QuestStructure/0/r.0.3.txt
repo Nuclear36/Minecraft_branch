@@ -1,0 +1,4 @@
+StonePlantMound,174,179,2043,2048
+RLCraft_DecentWitch,284,284,2002,2002
+RLCraft_UndergroundRuin2,279,286,1997,2007
+BrickHenge,232,248,1954,1970

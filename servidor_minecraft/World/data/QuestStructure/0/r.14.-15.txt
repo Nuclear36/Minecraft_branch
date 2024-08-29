@@ -1,0 +1,2 @@
+StonePlantMound2,7270,7283,-7725,-7713
+SmallWoodenCottage2,7451,7459,-7725,-7717

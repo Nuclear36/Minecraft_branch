@@ -1,0 +1,2 @@
+StonePlantMound4,3006,3013,-9584,-9577
+DinosaurSkeleton,2948,2994,-9569,-9560

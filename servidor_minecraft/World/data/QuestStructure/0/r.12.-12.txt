@@ -1,0 +1,10 @@
+StonePlantMound,6524,6529,-6208,-6203
+StonePlantBoulder,6638,6648,-6225,-6215
+StonePlantMound1,6631,6637,-6276,-6270
+ShrineSmallFire,6619,6629,-6281,-6271
+RLCraft_DecentWitch,6604,6604,-6287,-6287
+RLCraft_UndergroundRuin3,6598,6606,-6292,-6284
+RLCraft_BasicZombie,6557,6557,-6340,-6340
+RLCraft_UndergroundRuin1,6551,6560,-6343,-6334
+StonePlantMound3,6609,6618,-6374,-6363
+StonePlantMound1,6648,6654,-6403,-6397

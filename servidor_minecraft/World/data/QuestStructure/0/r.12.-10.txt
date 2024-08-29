@@ -1,0 +1,13 @@
+StonePlantBoulder,6611,6621,-5224,-5214
+StonePlantMound,6586,6591,-5417,-5412
+StonePlantMound3,6555,6564,-5355,-5344
+RLCraft_DecentSpider,6557,6557,-5280,-5280
+RLCraft_UndergroundRuin2,6552,6562,-5282,-5275
+StonePlantBoulder,6554,6564,-5391,-5381
+CuboneSkull,6489,6547,-5333,-5272
+StonePlantMound3,6454,6463,-5243,-5232
+StonePlantMound2,6461,6474,-5332,-5320
+WoodThornBig,6499,6512,-5375,-5362
+StonePlantMound2,6365,6377,-5204,-5191
+StoneLeafMound,6358,6367,-5286,-5279
+IceThorn4,6493,6509,-5634,-5608

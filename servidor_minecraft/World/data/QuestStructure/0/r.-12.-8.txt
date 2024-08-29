@@ -1,0 +1,7 @@
+ShrineSmallAir,-6253,-6245,-4448,-4440
+StonePlantMound,-6345,-6340,-4460,-4455
+ShrineSmallWater,-6289,-6281,-4421,-4413
+StonePlantMound3,-6325,-6316,-4542,-4531
+RLCraft_BasicSkeleton,-6349,-6349,-4534,-4534
+RLCraft_UndergroundRuin1,-6352,-6343,-4537,-4528
+StonePlantMound4,-6236,-6229,-4566,-4559

@@ -1,0 +1,4 @@
+RLCraft_BasicSkeleton,8723,8723,-9297,-9297
+RLCraft_UndergroundRuin1,8717,8726,-9300,-9291
+RLCraft_SmallUndergroundSkeleton,8730,8738,-9328,-9320
+DinosaurSkeleton,8736,8745,-9252,-9206

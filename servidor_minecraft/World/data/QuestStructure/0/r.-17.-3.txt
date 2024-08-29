@@ -1,0 +1,8 @@
+P_VillageFarmhouse,-9195,-9183,-1962,-1950
+VillageWoodMill,-9194,-9178,-1892,-1879
+VillageGuardTower,-9164,-9152,-1922,-1910
+SeasonsGreenhouse,-9164,-9152,-1898,-1888
+AbandonedWoodTower,-9149,-9119,-1993,-1957
+SeasonsGreenhouse,-9190,-9180,-1875,-1863
+VillageMarketplace,-9162,-9148,-1877,-1863
+ThreeTowers,-9143,-9112,-1908,-1876

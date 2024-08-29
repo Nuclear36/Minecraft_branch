@@ -1,0 +1,6 @@
+RLCraft_UndergroundFarm,-1103,-1061,-3372,-3329
+SmallWoodenCottage2,-1087,-1079,-3276,-3268
+FallenPalmTree,-1301,-1297,-3135,-3125
+RLCraft_Vineyard,-1317,-1297,-3415,-3387
+DinosaurSkull,-1323,-1304,-3337,-3326
+DesertBeacon,-1319,-1313,-3099,-3093
